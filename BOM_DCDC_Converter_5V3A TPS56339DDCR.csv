@@ -1,9 +1,0 @@
-Id;Designator;Package;Quantity;Designation;Supplier and ref
-1;Cbst1,Cinx1;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;2;100.0 nF C_0805;
-2;Cin1;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;10.0 uF C_0805;
-3;Cout1;C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;1;22uF C_0805;
-4;L1;XAL5050-562MEB;1;5.6 uH;
-5;Rbst1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;30.0 Ohm R_0603;
-6;Rfbb1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;10kOhm R_0603;
-7;Rfbt1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;53,3 kOhm R_0603;
-8;U1;SOT-23-6;1;TPS56339DDCR;
