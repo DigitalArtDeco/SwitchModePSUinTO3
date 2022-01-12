@@ -5,6 +5,6 @@ Id;Designator;Package;Quantity;Designation;Supplier and ref
 4;L1;XAL5050-562MEB;1;XAL5050-562MEB;XAL5050-562MEB
 5;Rbst1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;30.0 Ohm R_0603;RC0603FR-0730RL
 6;Rfbb1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;10kOhm R_0603;CRCW0603-10K-E3
-7;Rfbt1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;52.3Kohms 1%;CRCW0603-52.3K-E3 (This resistor sets the output voltage!) 
+7;Rfbt1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;52.3Kohms 1%;CRCW0603-52.3K-E3 (This resistor sets the output voltage to 5 V!) 
 8;U1;SOT-23-6;1;TPS56339DDCR;TPS56339DDCR
 9;RV1 opt. ;;;dont use for fix output volage;
